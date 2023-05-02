@@ -29,7 +29,6 @@
 
 ## User Story
 
- <!-- TODO: Update -->
 ```md
 
 AS AN avid foodie, but also a recluse, 
@@ -77,10 +76,9 @@ SO THAT that I can eat good food with fun people and not alone.
 
 ### __Links 🔗__
 
- <!-- TODO: Update -->
 
 - Live URL: []()
-- Github Repository: []()
+- Github Repository: [https://github.com/coltonsmith135/TasteBuds](https://github.com/coltonsmith135/TasteBuds)
 
 <br>
 <hr>
@@ -88,7 +86,6 @@ SO THAT that I can eat good food with fun people and not alone.
 
 ##  __My process 💡__
 
- <!-- TODO: Update -->
 ###  Built with 🔨
 - Tailwind
 - React, MERN stack
